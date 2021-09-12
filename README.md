@@ -2,7 +2,7 @@
 
 Utilities used to generate the audiovisual components of https://opensea.io/collection/n-music
 
-All images and media are original
+All audiovisual components, images, sounds, etc. are original
 
 ### Libraries Used
 
