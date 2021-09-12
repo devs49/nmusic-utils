@@ -1,6 +1,6 @@
 # nmusic-utils
 
-Utilities used to generate the audiovisual components of x
+Utilities used to generate the audiovisual components of https://opensea.io/collection/n-music
 
 All images and media are original
 
