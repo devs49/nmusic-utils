@@ -7,7 +7,11 @@ All images and media are original
 ### Libraries Used
 
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+
 https://nodejs.org
+
 https://www.ffmpeg.org
+
 https://github.com/WebReflection/linkedom
+
 https://github.com/paulrosen/abcjs
